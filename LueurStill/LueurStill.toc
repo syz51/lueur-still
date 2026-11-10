@@ -1,0 +1,26 @@
+## Interface: 11509, 16001
+## Title: Lueur Still
+## Notes: Lueur, with the minimap herb and ore scan budgeted so it does not hitch. Glow, colours, and settings match Lueur 1.6.1.
+## Notes-frFR: Lueur, dont la lecture de la minimap (plantes et filons) est étalée pour ne plus saccader.
+## Notes-deDE: Lueur, dessen Minikarten-Scan (Kräuter und Erze) zeitlich begrenzt ist und nicht mehr ruckelt.
+## Notes-esES: Lueur, con la lectura del minimapa (hierbas y filones) repartida para que no entrecorten el juego.
+## Notes-ruRU: Lueur, чтение миникарты (травы и жилы) растянуто по кадрам и больше не дёргает кадр.
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\LueurStill\Media\icon.tga
+## AddonCompartmentFunc: LueurStill_OnAddonCompartmentClick
+## SavedVariables: LueurStillDB
+## SavedVariablesPerCharacter: LueurStillCharDB
+
+Locales\Locales.lua
+Locales\enUS.lua
+Locales\frFR.lua
+Locales\deDE.lua
+Locales\esES.lua
+Locales\ruRU.lua
+Effects.lua
+Lueur.lua
+Nodes.lua
+NodeScan.lua
+Skin.lua
+Menu.lua
+Preview.lua
